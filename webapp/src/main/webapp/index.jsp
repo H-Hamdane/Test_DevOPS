@@ -1,3 +1,5 @@
+<h1> Hello, Welcome to simple DevOps Project !! </h1>
+<h2> Deploying on Ansible </h2>
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
